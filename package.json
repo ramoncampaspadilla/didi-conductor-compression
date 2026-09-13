@@ -1,0 +1,29 @@
+{
+  "name": "didi-conductor-compression",
+  "version": "1.0.0",
+  "description": "Sistema de compresión de datos para aplicación Didi Conductor - optimización de datos en tiempo real",
+  "main": "src/example.js",
+  "type": "module",
+  "scripts": {
+    "example": "node src/example.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "compression",
+    "didi",
+    "conductor",
+    "optimization",
+    "gps",
+    "location-tracking",
+    "real-time"
+  ],
+  "author": "ramoncampaspadilla",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
